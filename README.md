@@ -6,3 +6,10 @@ The plugin written by Sergey was initially building the VCARD QR Code encoding t
 
 ## Install
 The two files need to be copied in the extensions directory of Inkscape, then they will add a menu item "QR Code Vcard" in the Extensions/Rendering/Barcode menu.  
+
+## Info about QRCodes and VCARD fields
+https://www.qrcode.com/en/
+
+https://www.qrcode.com/en/
+
+https://en.wikipedia.org/wiki/VCard
